@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://bichomanianet.com.br/</loc>
 		<lastmod>2025-08-17T15:07:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/clinicas-veterinarias/</loc>
+		<loc>https://bichomanianet.com.br/clinicas-veterinarias/</loc>
 		<lastmod>2025-08-17T15:18:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/canis/</loc>
+		<loc>https://bichomanianet.com.br/canis/</loc>
 		<lastmod>2025-08-17T15:18:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/remocao-de-conteudo/</loc>
+		<loc>https://bichomanianet.com.br/remocao-de-conteudo/</loc>
 		<lastmod>2025-08-17T15:11:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/politica-de-privacidade/</loc>
+		<loc>https://bichomanianet.com.br/politica-de-privacidade/</loc>
 		<lastmod>2025-07-13T23:59:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/termos-e-condicoes/</loc>
+		<loc>https://bichomanianet.com.br/termos-e-condicoes/</loc>
 		<lastmod>2025-07-13T23:58:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/quem-somos/</loc>
+		<loc>https://bichomanianet.com.br/quem-somos/</loc>
 		<lastmod>2025-07-13T23:56:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contato/</loc>
+		<loc>https://bichomanianet.com.br/contato/</loc>
 		<lastmod>2025-07-13T23:55:54+00:00</lastmod>
 	</url>
 </urlset>
